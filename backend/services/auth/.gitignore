@@ -1,0 +1,19 @@
+
+node_modules/
+.env
+.env.*
+!.env.example
+dist/
+build/
+coverage/
+.DS_Store# Environment variables
+.env
+.env.*
+!.env.example
+
+# Firebase / Google credentials
+serviceAccountKey.json
+**/serviceAccountKey.json
+
+# Dependencies
+node_modules/
